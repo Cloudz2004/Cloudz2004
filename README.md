@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hi there, I'm Cloudz 👋
+[![Discord](https://img.shields.io/discord/805908304161275984?color=%23add8e6&label=Support%20Server&logo=Discord&style=for-the-badge)](https://discord.gg/nWPc3PYhcb)
 
-<!--
-**Pollenz/Pollenz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on Discord bot, website
+- 🌱 I’m currently learning JS,CSS,HTML,C#,C++,PHP
+- 📫 How to reach me: Discord Server
+- 😄 Pronouns: he/him
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### About me
+• I'm 17 years old
+
+• I'm Latvian!
+
+• I'm a discord bot developer!
+
+[![Discord Bots](https://top.gg/api/widget/801877469107847240.svg)](https://top.gg/bot/801877469107847240)
