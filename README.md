@@ -20,4 +20,4 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pollenz&theme=radical)
 
-<img src="https://canary.discord.com/widget?id=805908304161275984&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></img>
+<embed src="https://canary.discord.com/widget?id=805908304161275984&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></embed>
