@@ -16,3 +16,5 @@
 • I'm a discord bot developer!
 
 [![Discord Bots](https://top.gg/api/widget/801877469107847240.svg)](https://top.gg/bot/801877469107847240)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pollenz&theme=radical)
