@@ -1,7 +1,7 @@
 ### Hi there, I'm Cloudz 👋
 
 [![Discord](https://img.shields.io/discord/805908304161275984?color=%23add8e6&label=Support%20Server&logo=Discord&style=for-the-badge)](https://discord.gg/nWPc3PYhcb)
-<img src="https://canary.discord.com/widget?id=805908304161275984&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></img>
+<iframe src="https://canary.discord.com/widget?id=805908304161275984&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
 
 - 🔭 I’m currently working on Discord bot, website and a game which i suck at
 - 🌱 I’m currently learning JS,CSS,HTML,C#,C++,PHP
