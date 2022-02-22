@@ -17,4 +17,4 @@
 [![Discord Bots](https://top.gg/api/widget/801877469107847240.svg)](https://top.gg/bot/801877469107847240)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pollenz&count_private=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pollenz&layout=compact)](https://github.com/Pollenz/Pollenz)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pollenz&layout=compact)](https://github.com/Pollenz/Hatsune)
