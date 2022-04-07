@@ -1,6 +1,6 @@
 ### Hi there, I'm Cloudz 👋
 
-[![Discord](https://img.shields.io/discord/805908304161275984?color=%23add8e6&label=Support%20Server&logo=Discord&style=for-the-badge)](https://discord.gg/nWPc3PYhcb)
+[![Community](https://discordapp.com/api/guilds/805908304161275984/widget.png?style=banner2)](https://discord.gg/nWPc3PYhcb)
 
 
 - 🔭 I’m currently working on Discord bot, website and a game which i suck at
