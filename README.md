@@ -4,7 +4,7 @@
 
 
 - 🔭 I’m currently working on Discord bot, website and a game which i suck at
-- 🌱 I’m currently learning JS,CSS,HTML,C#,C++,PHP
+- 🌱 I’m currently learning JS,CSS,HTML,C#,C++,PHP,EJS
 - 📫 How to reach me: Discord Server
 - 😄 Pronouns: he/him
 
