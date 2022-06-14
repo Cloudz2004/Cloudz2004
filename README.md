@@ -10,7 +10,7 @@
 
 
 ### About me
-• I'm 17 years old
+• I'm 18 years old
 
 • I'm a discord bot developer!
 
