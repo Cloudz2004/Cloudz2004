@@ -20,4 +20,5 @@
 <a href="https://discord.com/users/425355623652261899" target="_blank">
 	<img width="50%" align="right" alt="Discord Status" src="https://lanyard.cnrad.dev/api/425355623652261899?bg=1f1f1f&borderRadius=5px">
 </a>
+
 [![Pollenz's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Cloudz)](https://github.com/Cloudz2004/Hatsune)
