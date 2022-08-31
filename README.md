@@ -18,3 +18,4 @@
 
 ![Pollenz's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cloudz2004&count_private=true&theme=tokyonight)
 [![Pollenz's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Cloudz)](https://github.com/Cloudz2004/Hatsune)
+<figure><embed src="https://wakatime.com/share/@Cloudz/ca50f5ec-10de-4550-bb58-4a5a7830aa4f.svg"></embed></figure>
