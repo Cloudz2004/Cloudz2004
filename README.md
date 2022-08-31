@@ -10,6 +10,7 @@
 • I'm 18 years old
 
 • I'm a discord bot developer!
+
 [![Discord Bots](https://top.gg/api/widget/801877469107847240.svg)](https://top.gg/bot/801877469107847240)
 [![Community](https://discordapp.com/api/guilds/805908304161275984/widget.png?style=banner2)](https://discord.gg/nWPc3PYhcb)
 
