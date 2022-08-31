@@ -12,8 +12,11 @@
 • I'm a discord bot developer!
 
 [![Discord Bots](https://top.gg/api/widget/801877469107847240.svg)](https://top.gg/bot/801877469107847240)
+
 [![Community](https://discordapp.com/api/guilds/805908304161275984/widget.png?style=banner2)](https://discord.gg/nWPc3PYhcb)
 
 ![Pollenz's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cloudz2004&count_private=true&theme=tokyonight)
+
 [![Pollenz's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Cloudz)](https://github.com/Cloudz2004/Hatsune)
+
 ![Avg stats](https://wakatime.com/share/@Cloudz/ca50f5ec-10de-4550-bb58-4a5a7830aa4f.svg)
