@@ -7,7 +7,7 @@
 
 
 ### About me
-• I'm 18 years old
+• Born: 11/04/2004
 
 • I'm a discord bot developer!
 
