@@ -9,7 +9,7 @@
 ### About me
 • Born: 11/04/2004
 
-• I'm a discord bot developer/website!
+• I develop different projects such as discord bots, websites.
 
 [![Discord Bots](https://top.gg/api/widget/801877469107847240.svg)](https://top.gg/bot/801877469107847240)
 
